@@ -1,6 +1,7 @@
 # jobskillmatching
 
-##Recommending industry jobs with machine learning
+*Recommending industry jobs with machine learning*
+
 Team members: Seguel, Pedro; Wei, Shih-Tsai
 
 Tools used: Python{Sklearn, pandas, matplotlib}, Colab, LateX, Github
